@@ -1,2 +1,2 @@
 # Medium-Implementations
-Contains source codes for articles published on Medium
+This repository contains source codes for articles published on https://medium.com/@arthirajendran
